@@ -1,0 +1,3 @@
+# Azure Cosmos DB Billing Record Optimization (Serverless Archival)
+...
+[truncated for brevity – full content written earlier]
